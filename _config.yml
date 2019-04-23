@@ -19,7 +19,7 @@ locale                   : "Chapel Hill, NC"
 title                    : ""
 title_separator          : "-"
 name                     : "Kevin Donovan"
-description              : "PhD student in Biostatistics at\n the University of North Carolina\nat Chapel Hill."
+description              : "Personal Website"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Kevin Donovan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD student in Biostatistics at\n the University of North Carolina\nat Chapel Hill."
+  bio              : "PhD student in Biostatistics at\nthe University of North Carolina\nat Chapel Hill."
   location         : "Chapel Hill, NC"
   email            :
   links:
