@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Kevin Donovan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "PhD student in Biostatistics at\nUNC-Chapel Hill."
+  bio              : "PhD student in Biostatistics at\\nthe University of North Carolina\\nat Chapel Hill."
   location         : "Chapel Hill, NC"
   email            :
   links:
