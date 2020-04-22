@@ -4,4 +4,4 @@ layout: default
 permalink: /cv/
 ---
 [CV]
-[CV]: /CV/CV.pdf
+[CV]: https://github.com/kmdono02/kmdono02.github.io/blob/master/CV/CV.pdf
