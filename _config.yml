@@ -226,7 +226,6 @@ timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 # Plugins (previously gems:)
 plugins:
-  - jekyll/scholar
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
@@ -236,29 +235,12 @@ plugins:
 
 # mimic GitHub Pages with --safe
 whitelist:
-  - jekyll/scholar
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
-  
-scholar:
-  style: apa
-  locale: en
-  sort_by: none
-  order: descending
-  source: ./Bibliography
-  bibliography: CV.bib
-  bibliography_template: bibtemplate 
-  replace_strings: true
-  join_strings:    true
-  details_dir:    bibliography
-  details_layout: bibtex.html
-  details_link:   Details
-
-  query: "@*"
 
 # Archives
 #  Type
