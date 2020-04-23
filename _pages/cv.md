@@ -4,7 +4,7 @@ layout: default
 permalink: /cv/
 ---
 <div>
-<object data="https://kmdono02.github.io/CV/CV.pdf#view=FitH" type="application/pdf">
+<object data="https://kmdono02.github.io/CV/CV.pdf" type="application/pdf" width="1000" height="750">
     <embed src="https://kmdono02.github.io/CV/CV.pdf">
     </embed>
 </object>
