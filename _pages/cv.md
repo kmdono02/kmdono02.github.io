@@ -10,3 +10,9 @@ permalink: /cv/
     </embed>
 </object>
 </div>
+
+<div>
+    <embed src="https://kmdono02.github.io/CV/CV.pdf">
+        <a href="https://kmdono02.github.io/CV/CV.pdf">Download PDF</a>.</p>
+    </embed>
+</div>
