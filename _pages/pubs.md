@@ -4,4 +4,3 @@ layout: archive
 permalink: /pubs/
 ---
 
-{% bibliography -f CV %}
