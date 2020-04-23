@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.11.30)  22 APR 2020 17:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6100 64-bit) (preloaded format=pdflatex 2016.11.30)  23 APR 2020 15:20
 entering extended mode
 **./CV.tex
 (CV.tex
@@ -95,32 +95,7 @@ Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
 \Gm@layoutvoffset=\dimen113
 \Gm@dimlist=\toks17
 
-("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg")) (CV.aux
-
-Package natbib Warning: Citation `JIVR_2019' multiply defined.
-
-
-Package natbib Warning: Citation `JADD_2020' multiply defined.
-
-
-Package natbib Warning: Citation `AIDS_2019' multiply defined.
-
-
-Package natbib Warning: Citation `JAACAP_2020' multiply defined.
-
-
-Package natbib Warning: Citation `AR_2019_Swanson' multiply defined.
-
-
-Package natbib Warning: Citation `RJournal_2020' multiply defined.
-
-
-Package natbib Warning: Citation `lodr_2020' multiply defined.
-
-
-Package natbib Warning: Citation `AAOS_2019' multiply defined.
-
-)
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg")) (CV.aux)
 \openout1 = `CV.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 36.
@@ -194,8 +169,34 @@ LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <10.95> not available
 (Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 83.
  [1
 
-{C:/Users/KevinD/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (CV.bbl) (
-CV.bbl) [2]
+{C:/Users/KevinD/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (CV.bbl)
+
+Package natbib Warning: Citation `lodr_2020' undefined on input line 139.
+
+(CV.bbl)
+
+Package natbib Warning: Citation `JIVR_2019' undefined on input line 151.
+
+
+Package natbib Warning: Citation `AAOS_2019' undefined on input line 152.
+
+
+Package natbib Warning: Citation `AR_2019_Swanson' undefined on input line 153.
+
+
+
+Package natbib Warning: Citation `AIDS_2019' undefined on input line 154.
+
+
+Package natbib Warning: Citation `JADD_2020' undefined on input line 155.
+
+
+Package natbib Warning: Citation `JAACAP_2020' undefined on input line 156.
+
+
+Package natbib Warning: Citation `RJournal_2020' undefined on input line 157.
+
+[2]
 Underfull \hbox (badness 10000) in paragraph at lines 177--194
 
  []
@@ -211,7 +212,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 177--194
  []
 
 
-Package natbib Warning: There were multiply defined citations.
+Package natbib Warning: There were undefined citations.
 
 [3] (CV.aux
 
@@ -222,7 +223,7 @@ Package natbib Warning: Citation(s) may have changed.
 Here is how much of TeX's memory you used:
  1372 strings out of 493333
  17811 string characters out of 3139185
- 86319 words of memory out of 3000000
+ 86142 words of memory out of 3000000
  4926 multiletter control sequences out of 15000+200000
  7639 words of font info for 27 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -232,7 +233,7 @@ rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program F
 iles/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKT
 eX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/f
 onts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on CV.pdf (3 pages, 85295 bytes).
+Output written on CV.pdf (3 pages, 84921 bytes).
 PDF statistics:
  32 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
