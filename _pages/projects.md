@@ -8,5 +8,5 @@ permalink: /projects/
 Random Forest algorithm using the First Year Inventory (FYI) responses for predicting Autism Spectrum Disorder (ASD) diagnosis in high risk infants referenced in "Towards A Data Driven Approach To Screen For Autism Risk At 12 Months Of Age" by Meera et al. (2019)
 
 See the corresponding [GitHub repository](https://github.com/kmdono02/FYI_Random_Forest) to access R supporting files, incluidng
-1) Random Forest algorthim [rf_ASD_predict.R](kmdono02/FYI_Random_Forest/master/rf_ASD_predict.R)
-2) Example dataset [rf_ASD_final.RData](kmdono02/FYI_Random_Forest/master/rf_ASD_final.RData)
+1) Random Forest algorthim [rf_ASD_predict.R](https://github.com/kmdono02/FYI_Random_Forest/rf_ASD_predict.R)
+2) Example dataset [rf_ASD_final.RData](https://github.com/kmdono02/FYI_Random_Forest/rf_ASD_final.RData)
