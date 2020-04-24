@@ -9,5 +9,5 @@ Random Forest algorithm using the First Year Inventory (FYI) responses for predi
 
 See the corresponding [GitHub repository](https://github.com/kmdono02/FYI_Random_Forest) to access R supporting files, including
 
-1) Function to implement algorthim [rf_ASD_predict.R](https://github.com/kmdono02/FYI_Random_Forest/blob/master/rf_ASD_predict.R)
-2) Random Forest algorthim [rf_ASD_final.RData](https://github.com/kmdono02/FYI_Random_Forest/blob/master/rf_ASD_final.RData)
+1. Function to implement algorthim [rf_ASD_predict.R](https://github.com/kmdono02/FYI_Random_Forest/blob/master/rf_ASD_predict.R)
+2. Random Forest algorthim [rf_ASD_final.RData](https://github.com/kmdono02/FYI_Random_Forest/blob/master/rf_ASD_final.RData)
