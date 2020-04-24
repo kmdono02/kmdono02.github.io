@@ -3,8 +3,7 @@ title: "Projects"
 layout: archive
 permalink: /projects/
 ---
-### lodr:
-#### R package for analyzing covariates subject to a limit of detection
+### lodr: R package for analyzing covariates subject to a limit of detection
 [<font size="3"> Publication </font>](...)  
 [<font size="3"> CRAN </font>](https://cran.r-project.org/web/packages/lodr/index.html)  
 [<font size="3"> GitHub </font>](https://github.com/mloop/lodr)
