@@ -1,7 +1,7 @@
 ---
-title: "Projects"
+title: "Software"
 layout: archive
-permalink: /projects/
+permalink: /software/
 ---
 **lodr: R package for analyzing covariates subject to a limit of detection**  
 [Publication](...); [CRAN](https://cran.r-project.org/web/packages/lodr/index.html); [GitHub](https://github.com/mloop/lodr)
