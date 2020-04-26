@@ -6,7 +6,7 @@ permalink: /software/
 **lodr: R package for analyzing covariates subject to a limit of detection**  
 [Publication](...); [CRAN](https://cran.r-project.org/web/packages/lodr/index.html); [GitHub](https://github.com/mloop/lodr)
 
-**FYI random forest algorithm**  
+**First Year Inventory (FYI) random forest algorithm**    
 [Publication](...); [GitHub](https://github.com/kmdono02/FYI_Random_Forest) 
 
 **Nonparametric inference for thresholds of risk**  
