@@ -9,7 +9,7 @@ permalink: /software/
 **First Year Inventory (FYI) random forest algorithm**    
 [Publication](...); [GitHub](https://github.com/kmdono02/FYI_Random_Forest)
 
-**R Tutorials Using Infant Brain Imaging Study (IBIS) Data**  
+**R tutorials using Infant Brain Imaging Study (IBIS) data**  
 [Tutorials](https://kmdono02.github.io/Data_Analysis_with_R_IBIS/); [GitHub](https://github.com/kmdono02/Data_Analysis_with_R_IBIS)
 
 **Nonparametric inference for thresholds of risk**  
