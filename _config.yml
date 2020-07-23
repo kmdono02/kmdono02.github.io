@@ -107,7 +107,7 @@ analytics:
 # Site Author
 author:
   name             : "Kevin Donovan"
-  avatar           : "profile.PNG"
+  avatar           : "/assets/images/profile.jpg"
   bio              : "PhD candidate<br>Biostatistics<br>UNC Chapel Hill"
   location         : "Chapel Hill, NC"
   email            :
