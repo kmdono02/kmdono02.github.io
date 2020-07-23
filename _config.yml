@@ -115,9 +115,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:kmdono02@ad.unc.edu
-    #- label: "Website"
-      #icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+    - label: "Google Scholar"
+      icon: "ai ai-google-scholar-square ai-fw"
+      url: "https://scholar.google.com/citations?user=h58gjroAAAAJ&hl=en"
     #- label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
