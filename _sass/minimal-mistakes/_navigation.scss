@@ -169,7 +169,6 @@
      ========================================================================== */
 
 .greedy-nav {
-  color: #4B9CD3;
   position: relative;
   display: -webkit-box;
   display: -ms-flexbox;
@@ -183,7 +182,7 @@
   a {
     display: block;
     margin: 0 1rem;
-    color: $masthead-link-color;
+    color: #4B9CD3;
     text-decoration: none;
 
     &:hover {
