@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Kevin Donovan"
   avatar           : "profile.PNG"
-  bio              : "PhD candidate\nBiostatistics\nUniversity of North Carolina at Chapel Hill."
+  bio              : "PhD candidate<br>Biostatistics<br>University of North Carolina at Chapel Hill."
   location         : "Chapel Hill, NC"
   email            :
   links:
