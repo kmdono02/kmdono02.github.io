@@ -116,7 +116,7 @@ author:
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:kmdono02@ad.unc.edu
     - label: "Google Scholar"
-      icon: "ai ai-google-scholar-square ai-fw"
+      icon: "fas fa-fw fa-google-scholar-square"
       url: "https://scholar.google.com/citations?user=h58gjroAAAAJ&hl=en"
     #- label: "Twitter"
       #icon: "fab fa-fw fa-twitter-square"
