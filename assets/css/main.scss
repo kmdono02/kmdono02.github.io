@@ -6,6 +6,6 @@
 
 $link-color: #0041C2;
 a {text-decoration: none; }
-ul li { padding: -5px 0px; }
+ul li { padding: 0px 0px 0px; }
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
