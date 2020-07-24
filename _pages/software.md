@@ -1,6 +1,6 @@
 ---
 title: "Software"
-layout: singke
+layout: single
 permalink: /software/
 ---
 **lodr: R package for analyzing covariates subject to a limit of detection (Donovan et al., 2020)**  
