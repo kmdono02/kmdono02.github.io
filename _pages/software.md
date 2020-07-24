@@ -2,7 +2,7 @@
 title: "Software"
 layout: single
 permalink: /software/
-geometry: margin=30mm
+geometry: margin=10mm
 ---
 **lodr: R package for analyzing covariates subject to a limit of detection (Donovan et al., 2020)**  
 [Publication](...); [CRAN](https://cran.r-project.org/web/packages/lodr/index.html); [GitHub](https://github.com/mloop/lodr)
