@@ -3,6 +3,6 @@ main:
   - title: "Software"
     url: /software/
   - title: "Publications"
-    url: /pubs.html
+    url: /_pages/pubs.html
   - title: CV
     url: /CV/CV.pdf
