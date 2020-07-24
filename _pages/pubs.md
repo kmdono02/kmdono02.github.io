@@ -5,5 +5,5 @@ permalink: /pubs/
 ---
 <iframe 
   src="https://bibbase.org/show?bib=https%3A%2F%2Fkmdono02.github.io%2FCV%2FCV.bib"
-  style="width:100%; height:300px;"
+  style="width:125%; height:1000px;"
  ></iframe> 
