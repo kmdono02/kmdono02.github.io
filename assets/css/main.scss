@@ -8,3 +8,7 @@ $link-color: #0041C2;
 a {text-decoration: none; }
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+html {
+  font-size: 12px; // change to whatever
+}
