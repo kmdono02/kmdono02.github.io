@@ -7,6 +7,5 @@
 $link-color: #0041C2;
 a {text-decoration: none; }
 li { padding: 5px 0px 0px; }
-li:first-child { margin-bottom: 10px; }
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
