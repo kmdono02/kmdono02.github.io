@@ -14,6 +14,5 @@ permalink: /software/
 **R tutorials using Infant Brain Imaging Study (IBIS) data (2020)**  
 [Tutorials](https://kmdono02.github.io/Data_Analysis_with_R_IBIS/); [GitHub](https://github.com/kmdono02/Data_Analysis_with_R_IBIS)
 
-**Nonparametric inference for immune response thresholds of risk in vaccine studies**     
-**(Donovan et al., 2019)**  
+**Nonparametric inference for immune response thresholds of risk in vaccine studies (Donovan et al., 2019)**  
 [Publication](https://www.ncbi.nlm.nih.gov/pubmed/31285781); [Supplement](https://kmdono02.github.io/Risk_Threshold/); [GitHub](https://github.com/kmdono02/Risk_Threshold)
