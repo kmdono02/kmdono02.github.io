@@ -24,7 +24,7 @@
 
 \usepackage{longtable}
 \usepackage{bibentry}
-\usepackage{natbib}
+\usepackage[maxbibnames=99, style=nature]{biblatex}
 \usepackage{hyperref}
 
 \usepackage[left=0.75in,top=0.6in,right=0.75in,bottom=0.6in]{geometry} % Document margins
@@ -33,6 +33,32 @@
 \name{Kevin Donovan} % Your name
 \address{119C Cole St., Chapel Hill, NC 27516} % Your address
 \address{(315)727-3603 \\ kmdono02@ad.unc.edu} % Your phone number and email
+
+\addbibresource{CV.bib}
+\addbibresource{CV_software.bib}
+\addbibresource{CV_talks.bib}
+
+\newcommand*{\boldname}[3]{%
+  \def\lastname{#1}%
+  \def\firstname{#2}%
+  \def\firstinit{#3}}
+\boldname{}{}{}
+
+% Patch new definitions
+\renewcommand{\mkbibnamegiven}[1]{%
+  \ifboolexpr{ ( test {\ifdefequal{\firstname}{\namepartgiven}} or test {\ifdefequal{\firstinit}{\namepartgiven}} ) and test {\ifdefequal{\lastname}{\namepartfamily}} }
+  {\mkbibbold{#1}}{#1}%
+}
+
+\renewcommand{\mkbibnamefamily}[1]{%
+  \ifboolexpr{ ( test {\ifdefequal{\firstname}{\namepartgiven}} or test {\ifdefequal{\firstinit}{\namepartgiven}} ) and test {\ifdefequal{\lastname}{\namepartfamily}} }
+  {\mkbibbold{#1}}{#1}%
+}
+
+\boldname{Donovan}{Kevin}{K.}
+
+\DeclareFieldFormat[misc]{title}{#1}
+\DeclareFieldFormat[proceedings]{title}{#1}
 
 \begin{document}
 
@@ -132,13 +158,12 @@ R, SAS, C++ and Rcpp, Matlab
 %	Developed Software
 %----------------------------------------------------------------------------------------
 
-\bibliographystyle{plain}
 \begin{rSection}{Developed Software}
-\nobibliography{CV_software,CV}
 
-\begin{longtable}{lp{15cm}}
-2020&\bibentry{lodr_2020}
-\end{longtable}
+\begin{refsection}[CV_software.bib]
+\nocite{*}
+\leavevmode\printbibliography[omitnumbers=true,heading=none]
+\end{refsection}
 
 \end{rSection}
 
@@ -146,15 +171,13 @@ R, SAS, C++ and Rcpp, Matlab
 %	Publications
 %----------------------------------------------------------------------------------------
 \begin{rSection}{Publications}
-\begin{longtable}{lp{15cm}}
-2019&\bibentry{JIVR_2019}\\
-2019&\bibentry{AAOS_2019}\\
-2019&\bibentry{AR_2019_Swanson}\\
-2019&\bibentry{AIDS_2019}\\
-2020&\bibentry{JADD_2020}\\
-2020&\bibentry{JAACAP_2020}\\
-2020&\bibentry{RJournal_2020}
-\end{longtable}
+
+\begin{refsection}[CV.bib]
+\nocite{*}
+\printbibliography[keyword=Published,omitnumbers=true,title=Published]
+\printbibliography[keyword=Accepted,omitnumbers=true,title=Accepted]
+\printbibliography[keyword=Submitted,omitnumbers=true,title=Submitted]
+\end{refsection}
 
 \end{rSection}
 
@@ -162,9 +185,11 @@ R, SAS, C++ and Rcpp, Matlab
 %	Professional Presentations
 %----------------------------------------------------------------------------------------
 \begin{rSection}{Professional Presentations}
-\begin{tabular}{lp{15cm}}
-2020&\underline{Contributed Session.} "Statistical Methods for Adolescent HIV Trials." Joint Statistical Meeting 2020, Philadelphia, PA. August, 2020.
-\end{tabular}
+
+\begin{refsection}[CV_talks.bib]
+\nocite{*}
+\leavevmode\printbibliography[omitnumbers=true,heading=none]
+\end{refsection}
 
 \end{rSection}
 

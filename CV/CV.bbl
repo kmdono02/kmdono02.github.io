@@ -1,61 +1,548 @@
-\begin{thebibliography}{1}
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
 
-\bibitem{AAOS_2019}
-Kevin Donovan, Michael Hudgens, and Peter Gilbert.
-\newblock Nonparametric inference for immune response thresholds of risk in
-  vaccine studies.
-\newblock {\em The annals of applied statistics}, 13(2):1147--1165, 2019.
 
-\bibitem{RJournal_2020}
-Kevin Donovan, Matthew Psioda, Michael Hudgens, and Matthew Loop.
-\newblock lodr: An r package for regression with biomarkers subject to limit of
-  detection.
-\newblock {\em R Journal}, 2020.
+\refsection{1}
+  \datalist[entry]{none/global//global/global}
+    \entry{lodr_2020}{misc}{}
+      \name{author}{4}{}{%
+        {{hash=8b3622765fc396273e12b8021793acdf}{%
+           family={Donovan},
+           familyi={D\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=2eb20b0799be1fe14e67d84117168092}{%
+           family={Psioda},
+           familyi={P\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7f6e1e848550f362b482fe489815faa1}{%
+           family={Hudgens},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=90f0eda52f6a1e85dee1c074b4123253}{%
+           family={Loop},
+           familyi={L\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{efef415df3c0c4f7d652961e7502d162}
+      \strng{fullhash}{fe2cd076589b12f5ae9e6801fa8b30c0}
+      \strng{bibnamehash}{fe2cd076589b12f5ae9e6801fa8b30c0}
+      \strng{authorbibnamehash}{fe2cd076589b12f5ae9e6801fa8b30c0}
+      \strng{authornamehash}{efef415df3c0c4f7d652961e7502d162}
+      \strng{authorfullhash}{fe2cd076589b12f5ae9e6801fa8b30c0}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{R Package. \textbf{lodr}: Regression with biomarkers subject to limit of detection}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://cran.r-project.org/web/packages/lodr/index.html
+      \endverb
+      \verb{url}
+      \verb https://cran.r-project.org/web/packages/lodr/index.html
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
 
-\bibitem{lodr_2020}
-Kevin Donovan, Matthew Psioda, Michael Hudgens, and Matthew Loop.
-\newblock R package. \textbf{lodr}: Regression with biomarkers subject to limit
-  of detection, 2020.
-\newblock https://cran.r-project.org/web/packages/lodr/index.html.
+\refsection{2}
+  \datalist[entry]{none/global//global/global}
+    \entry{AAOS_2019}{article}{}
+      \name{author}{3}{}{%
+        {{hash=8b3622765fc396273e12b8021793acdf}{%
+           family={Donovan},
+           familyi={D\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=7f6e1e848550f362b482fe489815faa1}{%
+           family={Hudgens},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fbfdf3d9c67e4b792f5de105f3b642ed}{%
+           family={Gilbert},
+           familyi={G\bibinitperiod},
+           given={Peter},
+           giveni={P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Institute of Mathematical Statistics}%
+      }
+      \strng{namehash}{efef415df3c0c4f7d652961e7502d162}
+      \strng{fullhash}{db701726d8e58fe89849effd30e05aa2}
+      \strng{bibnamehash}{db701726d8e58fe89849effd30e05aa2}
+      \strng{authorbibnamehash}{db701726d8e58fe89849effd30e05aa2}
+      \strng{authornamehash}{efef415df3c0c4f7d652961e7502d162}
+      \strng{authorfullhash}{db701726d8e58fe89849effd30e05aa2}
+      \field{extraname}{1}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{The Annals of Applied Statistics}
+      \field{number}{2}
+      \field{title}{Nonparametric inference for immune response thresholds of risk in vaccine studies}
+      \field{type}{Published}
+      \field{volume}{13}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{1147\bibrangedash 1165}
+      \range{pages}{19}
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/31285781
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/31285781
+      \endverb
+      \keyw{Published}
+    \endentry
+    \entry{JIVR_2019}{article}{}
+      \name{author}{6}{}{%
+        {{hash=a6a393103e219754648420ae9fbb4873}{%
+           family={Pisanie},
+           familyi={P\bibinitperiod},
+           given={Johannes},
+           giveni={J\bibinitperiod},
+           prefix={du},
+           prefixi={d\bibinitperiod}}}%
+        {{hash=7c9ef672b554036bcd2e7580ae24098c}{%
+           family={Abumoussa},
+           familyi={A\bibinitperiod},
+           given={Andrew},
+           giveni={A\bibinitperiod}}}%
+        {{hash=8b3622765fc396273e12b8021793acdf}{%
+           family={Donovan},
+           familyi={D\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=9c31e244411c282e2d31a5ca1e82c1c0}{%
+           family={Stewart},
+           familyi={S\bibinitperiod},
+           given={Jessica},
+           giveni={J\bibinitperiod}}}%
+        {{hash=26a07f4856c0f401d23d9d11f632bfc4}{%
+           family={Bagla},
+           familyi={B\bibinitperiod},
+           given={Sandeep},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c92f1588341f1e76905e61cfd3b64dd3}{%
+           family={Isaacson},
+           familyi={I\bibinitperiod},
+           given={Ari},
+           giveni={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{9210755004d86c5596d71b4e313d0474}
+      \strng{fullhash}{7e34b123ec626de9e80cd1107133e5f0}
+      \strng{bibnamehash}{7e34b123ec626de9e80cd1107133e5f0}
+      \strng{authorbibnamehash}{7e34b123ec626de9e80cd1107133e5f0}
+      \strng{authornamehash}{9210755004d86c5596d71b4e313d0474}
+      \strng{authorfullhash}{7e34b123ec626de9e80cd1107133e5f0}
+      \field{sortinit}{2}
+      \field{sortinithash}{ed39bb39cf854d5250e95b1c1f94f4ed}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Vascular and Interventional Radiology}
+      \field{title}{Predictors of Prostatic Artery Embolization Technical Outcomes: Patient and Procedural Factors}
+      \field{type}{Published}
+      \field{volume}{30}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{233\bibrangedash 240}
+      \range{pages}{8}
+      \verb{doi}
+      \verb 10.1016/j.jvir.2018.09.014
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/30717955
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/30717955
+      \endverb
+      \keyw{Published}
+    \endentry
+    \entry{AIDS_2019}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=19783daf8311da285ce87023e9c09e05}{%
+           family={Kim-Chang},
+           familyi={K\bibinithyphendelim C\bibinitperiod},
+           given={Julie\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=8b3622765fc396273e12b8021793acdf}{%
+           family={Donovan},
+           familyi={D\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=c8bc696375215ed626138eff2412747a}{%
+           family={Loop},
+           familyi={L\bibinitperiod},
+           given={Matthew\bibnamedelima S.},
+           giveni={M\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=65357e9cfa983833245a1d4204ef961c}{%
+           family={Hong},
+           familyi={H\bibinitperiod},
+           given={Suzi},
+           giveni={S\bibinitperiod}}}%
+        {{hash=a1fc56c888cef300abc5f710263bedbc}{%
+           family={Fischer},
+           familyi={F\bibinitperiod},
+           given={Bernard},
+           giveni={B\bibinitperiod}}}%
+        {{hash=80f28df010e44b08f148ed3938821262}{%
+           family={Venturi},
+           familyi={V\bibinitperiod},
+           given={Guglielmo},
+           giveni={G\bibinitperiod}}}%
+        {{hash=6616c6e544bc56942a144d383b847611}{%
+           family={Garvie},
+           familyi={G\bibinitperiod},
+           given={Patricia\bibnamedelima A},
+           giveni={P\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=5428b28a6964414495ed2c995420a336}{%
+           family={Kohn},
+           familyi={K\bibinitperiod},
+           given={Jordan},
+           giveni={J\bibinitperiod}}}%
+        {{hash=204a9cadc311076fa3e0251ee582932e}{%
+           family={Rendina},
+           familyi={R\bibinitperiod},
+           given={H.\bibnamedelimi Jonathon},
+           giveni={H\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=f57503c634895fb60d2b0529a7fd2689}{%
+           family={Woods},
+           familyi={W\bibinitperiod},
+           given={Steven\bibnamedelima P.},
+           giveni={S\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {LWW}%
+      }
+      \strng{namehash}{19e8c6e449e9131667a6379bc8ac1402}
+      \strng{fullhash}{02dd115e0fd579e765511d097002231e}
+      \strng{bibnamehash}{02dd115e0fd579e765511d097002231e}
+      \strng{authorbibnamehash}{02dd115e0fd579e765511d097002231e}
+      \strng{authornamehash}{19e8c6e449e9131667a6379bc8ac1402}
+      \strng{authorfullhash}{02dd115e0fd579e765511d097002231e}
+      \field{sortinit}{3}
+      \field{sortinithash}{a37a8ef248a93c322189792c34fc68c9}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{AIDS}
+      \field{number}{15}
+      \field{title}{Higher soluble {CD14} levels are associated with lower visuospatial memory performance in youth with {HIV}}
+      \field{type}{Published}
+      \field{volume}{33}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{2363\bibrangedash 2374}
+      \range{pages}{12}
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/31764101
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/31764101
+      \endverb
+      \keyw{Published}
+    \endentry
+    \entry{AR_2019_Swanson}{article}{}
+      \true{moreauthor}
+      \true{morelabelname}
+      \name{author}{10}{}{%
+        {{hash=7c5313f191e875662bf59436fe0ce7d8}{%
+           family={Swanson},
+           familyi={S\bibinitperiod},
+           given={Meghan\bibnamedelima R.},
+           giveni={M\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=8b3622765fc396273e12b8021793acdf}{%
+           family={Donovan},
+           familyi={D\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=b34c8670b8a0c8e606f8fe3c9dcdc713}{%
+           family={Paterson},
+           familyi={P\bibinitperiod},
+           given={Sarah},
+           giveni={S\bibinitperiod}}}%
+        {{hash=aa3bdd7b0382d0a59fd0b898183ad1c2}{%
+           family={Wolff},
+           familyi={W\bibinitperiod},
+           given={Jason\bibnamedelima J.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=8195c88e257de6de7fe2fd59cf0e4bb0}{%
+           family={Parish-Morris},
+           familyi={P\bibinithyphendelim M\bibinitperiod},
+           given={Julia},
+           giveni={J\bibinitperiod}}}%
+        {{hash=ba93698db1ecd90f2f9a056d6f641da7}{%
+           family={Meera},
+           familyi={M\bibinitperiod},
+           given={Shoba\bibnamedelima S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=67d28a0800c7145214c113225f26f37a}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={Linda\bibnamedelima R.},
+           giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+        {{hash=b89df595aaa25009c424bf9beb0fc623}{%
+           family={Estes},
+           familyi={E\bibinitperiod},
+           given={Annette\bibnamedelima M.},
+           giveni={A\bibinitperiod\bibinitdelim M\bibinitperiod}}}%
+        {{hash=6521121252de2a553a996477778f4725}{%
+           family={Marrus},
+           familyi={M\bibinitperiod},
+           given={Natasha},
+           giveni={N\bibinitperiod}}}%
+        {{hash=4546608a4efd1dfa5cc61801d816f847}{%
+           family={Elison},
+           familyi={E\bibinitperiod},
+           given={Jed\bibnamedelima T.},
+           giveni={J\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Wiley Online Library}%
+      }
+      \strng{namehash}{8dee5f36b9917b9c9e66b613210111c3}
+      \strng{fullhash}{dd138526444560b0f2ef3ffe2fa0b494}
+      \strng{bibnamehash}{dd138526444560b0f2ef3ffe2fa0b494}
+      \strng{authorbibnamehash}{dd138526444560b0f2ef3ffe2fa0b494}
+      \strng{authornamehash}{8dee5f36b9917b9c9e66b613210111c3}
+      \strng{authorfullhash}{dd138526444560b0f2ef3ffe2fa0b494}
+      \field{sortinit}{4}
+      \field{sortinithash}{e071e0bcb44634fab398d68ad04e69f4}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Autism Research}
+      \field{number}{12}
+      \field{title}{Early language exposure supports later language skills in infants with and without autism}
+      \field{type}{Published}
+      \field{volume}{12}
+      \field{year}{2019}
+      \true{nocite}
+      \field{pages}{1784\bibrangedash 1795}
+      \range{pages}{12}
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/31254329
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/31254329
+      \endverb
+      \keyw{Published}
+    \endentry
+    \entry{JADD_2020}{article}{}
+      \name{author}{9}{}{%
+        {{hash=800dca983f7f8f913e8ca5e765f00c20}{%
+           family={Grzadzinski},
+           familyi={G\bibinitperiod},
+           given={Rebecca},
+           giveni={R\bibinitperiod}}}%
+        {{hash=8b3622765fc396273e12b8021793acdf}{%
+           family={Donovan},
+           familyi={D\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=1fe0320c88e319e1c4097abad45c8985}{%
+           family={Truong},
+           familyi={T\bibinitperiod},
+           given={Kinh},
+           giveni={K\bibinitperiod}}}%
+        {{hash=504aa49f9708b99d370f2c9b42b598ed}{%
+           family={Nowell},
+           familyi={N\bibinitperiod},
+           given={Sallie},
+           giveni={S\bibinitperiod}}}%
+        {{hash=7a2a9959aead3a010e39c99a43275227}{%
+           family={Lee},
+           familyi={L\bibinitperiod},
+           given={Helen},
+           giveni={H\bibinitperiod}}}%
+        {{hash=1e2e93abce0bf370a2c57e15a5bf2307}{%
+           family={Sideris},
+           familyi={S\bibinitperiod},
+           given={John},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f4c60c1b2fd6a48c020490095092a077}{%
+           family={Turner-Brown},
+           familyi={T\bibinithyphendelim B\bibinitperiod},
+           given={Lauren},
+           giveni={L\bibinitperiod}}}%
+        {{hash=b07f843194b3477c99aee997cd11b0ad}{%
+           family={Baranek},
+           familyi={B\bibinitperiod},
+           given={Grace\bibnamedelima T.},
+           giveni={G\bibinitperiod\bibinitdelim T\bibinitperiod}}}%
+        {{hash=67d28a0800c7145214c113225f26f37a}{%
+           family={Watson},
+           familyi={W\bibinitperiod},
+           given={Linda\bibnamedelima R.},
+           giveni={L\bibinitperiod\bibinitdelim R\bibinitperiod}}}%
+      }
+      \list{publisher}{1}{%
+        {Springer}%
+      }
+      \strng{namehash}{595f993b7dd0ea0e87364c2012438838}
+      \strng{fullhash}{df650cc71d131e45fefdd62dc03a0b65}
+      \strng{bibnamehash}{df650cc71d131e45fefdd62dc03a0b65}
+      \strng{authorbibnamehash}{df650cc71d131e45fefdd62dc03a0b65}
+      \strng{authornamehash}{595f993b7dd0ea0e87364c2012438838}
+      \strng{authorfullhash}{df650cc71d131e45fefdd62dc03a0b65}
+      \field{sortinit}{5}
+      \field{sortinithash}{5dd416adbafacc8226114bc0202d5fdd}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Autism and Developmental Disorders}
+      \field{title}{Sensory Reactivity at 1 and 2 Years Old is Associated with {ASD} Severity During the Preschool Years}
+      \field{type}{Published}
+      \field{year}{2020}
+      \true{nocite}
+      \field{pages}{1\bibrangedash 10}
+      \range{pages}{10}
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/32157566
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pubmed/32157566
+      \endverb
+      \keyw{Published}
+    \endentry
+    \entry{JAACAP_2020}{article}{}
+      \name{author}{7}{}{%
+        {{hash=ba93698db1ecd90f2f9a056d6f641da7}{%
+           family={Meera},
+           familyi={M\bibinitperiod},
+           given={Shoba\bibnamedelima S.},
+           giveni={S\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+        {{hash=8b3622765fc396273e12b8021793acdf}{%
+           family={Donovan},
+           familyi={D\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=3a8a115200cf2fff30a2a2ccadcde212}{%
+           family={Wolf},
+           familyi={W\bibinitperiod},
+           given={Jason},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3cc1018e94d50b234c285d9200e31e1c}{%
+           family={Zwaigenbaum},
+           familyi={Z\bibinitperiod},
+           given={Lonnie},
+           giveni={L\bibinitperiod}}}%
+        {{hash=23c456d1158df25176a73f893ebf38d4}{%
+           family={Elison},
+           familyi={E\bibinitperiod},
+           given={Jed},
+           giveni={J\bibinitperiod}}}%
+        {{hash=1fe0320c88e319e1c4097abad45c8985}{%
+           family={Truong},
+           familyi={T\bibinitperiod},
+           given={Kinh},
+           giveni={K\bibinitperiod}}}%
+        {{hash=6ad4e4de33073fd09aeb90f1801dc7da}{%
+           family={Pivon},
+           familyi={P\bibinitperiod},
+           given={Joseph},
+           giveni={J\bibinitperiod}}}%
+      }
+      \strng{namehash}{96e4b6665a3c2f959ca48502b462235b}
+      \strng{fullhash}{f173a8f2041e7bd7057b5a3af26b6c0c}
+      \strng{bibnamehash}{f173a8f2041e7bd7057b5a3af26b6c0c}
+      \strng{authorbibnamehash}{f173a8f2041e7bd7057b5a3af26b6c0c}
+      \strng{authornamehash}{96e4b6665a3c2f959ca48502b462235b}
+      \strng{authorfullhash}{f173a8f2041e7bd7057b5a3af26b6c0c}
+      \field{sortinit}{6}
+      \field{sortinithash}{7851c86048328b027313775d8fbd2131}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of the American Academy of Child and Adolescent Psychiatry}
+      \field{title}{Towards a Data Driven Approach to Screen for Autism Risk at 12 Months of Age}
+      \field{type}{Accepted}
+      \field{year}{2020}
+      \true{nocite}
+      \keyw{Accepted}
+    \endentry
+    \entry{RJournal_2020}{article}{}
+      \name{author}{4}{}{%
+        {{hash=8b3622765fc396273e12b8021793acdf}{%
+           family={Donovan},
+           familyi={D\bibinitperiod},
+           given={Kevin},
+           giveni={K\bibinitperiod}}}%
+        {{hash=2eb20b0799be1fe14e67d84117168092}{%
+           family={Psioda},
+           familyi={P\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+        {{hash=7f6e1e848550f362b482fe489815faa1}{%
+           family={Hudgens},
+           familyi={H\bibinitperiod},
+           given={Michael},
+           giveni={M\bibinitperiod}}}%
+        {{hash=90f0eda52f6a1e85dee1c074b4123253}{%
+           family={Loop},
+           familyi={L\bibinitperiod},
+           given={Matthew},
+           giveni={M\bibinitperiod}}}%
+      }
+      \strng{namehash}{efef415df3c0c4f7d652961e7502d162}
+      \strng{fullhash}{fe2cd076589b12f5ae9e6801fa8b30c0}
+      \strng{bibnamehash}{fe2cd076589b12f5ae9e6801fa8b30c0}
+      \strng{authorbibnamehash}{fe2cd076589b12f5ae9e6801fa8b30c0}
+      \strng{authornamehash}{efef415df3c0c4f7d652961e7502d162}
+      \strng{authorfullhash}{fe2cd076589b12f5ae9e6801fa8b30c0}
+      \field{extraname}{2}
+      \field{sortinit}{7}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{note}{Submitted to \textit{R Journal}}
+      \field{title}{lodr: An {R} package for regression with biomarkers subject to limit of detection}
+      \field{type}{Submitted}
+      \field{year}{2020}
+      \true{nocite}
+      \verb{urlraw}
+      \verb https://cran.r-project.org/web/packages/lodr/index.html
+      \endverb
+      \verb{url}
+      \verb https://cran.r-project.org/web/packages/lodr/index.html
+      \endverb
+      \keyw{Submitted}
+    \endentry
+  \enddatalist
+\endrefsection
 
-\bibitem{JIVR_2019}
-Johannes du~Pisanie, Andrew Abumoussa, Kevin Donovan, Jessica Stewart, Sandeep
-  Bagla, and Ari Isaacson.
-\newblock Predictors of prostatic artery embolization technical outcomes:
-  Patient and procedural factors.
-\newblock {\em Journal of Vascular and Interventional Radiology}, 30:233--240,
-  02 2019.
+\refsection{3}
+  \datalist[entry]{none/global//global/global}
+    \entry{jsm_lodr_2020}{proceedings}{}
+      \field{sortinit}{1}
+      \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
+      \field{labeltitlesource}{title}
+      \field{note}{Contributed Session. Joint Statistical Meeting 2020. Philadelphia, PA.}
+      \field{title}{Statistical Methods for Adolescent HIV Trials}
+      \field{year}{2020}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
 
-\bibitem{JADD_2020}
-Rebecca Grzadzinski, Kevin Donovan, Kinh Truong, Sallie Nowell, Helen Lee, John
-  Sideris, Lauren Turner-Brown, Grace~T. Baranek, and Linda~R. Watson.
-\newblock Sensory reactivity at 1 and 2 years old is associated with asd
-  severity during the preschool years.
-\newblock {\em Journal of Autism and Developmental Disorders}, pages 1--10,
-  2020.
-
-\bibitem{AIDS_2019}
-Julie~J. Kim-Chang, Kevin Donovan, Matthew~S. Loop, Suzi Hong, Bernard Fischer,
-  Guglielmo Venturi, Patricia~A Garvie, Jordan Kohn, H.~Jonathon Rendina,
-  Steven~P. Woods, et~al.
-\newblock Higher soluble cd14 levels are associated with lower visuospatial
-  memory performance in youth with hiv.
-\newblock {\em AIDS}, 33(15):2363--2374, 2019.
-
-\bibitem{JAACAP_2020}
-Shoba~S. Meera, \textbf{Kevin} Donovan, Jason Wolf, Lonnie Zwaigenbaum, Jed
-  Elison, Kinh Truong, and Joseph Pivon.
-\newblock Towards a data driven approach to screen for autism risk at 12 months
-  of age.
-\newblock {\em Journal of the American Academy of Child and Adolescent
-  Psychiatry}, 2020.
-
-\bibitem{AR_2019_Swanson}
-Meghan~R. Swanson, Kevin Donovan, Sarah Paterson, Jason~J. Wolff, Julia
-  Parish-Morris, Shoba~S. Meera, Linda~R. Watson, Annette~M. Estes, Natasha
-  Marrus, Jed~T. Elison, et~al.
-\newblock Early language exposure supports later language skills in infants
-  with and without autism.
-\newblock {\em Autism Research}, 12(12):1784--1795, 2019.
-
-\end{thebibliography}
