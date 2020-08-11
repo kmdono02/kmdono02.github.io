@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.24)  25 JUL 2020 01:53
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.24)  11 AUG 2020 15:21
 entering extended mode
 **./CV.tex
 (CV.tex
@@ -603,26 +603,31 @@ Package biblatex Warning: Option 'omitnumbers' requires 'defernumbers=true'.
 
 Package biblatex Info: Reference section=0 on input line 192.
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--218
+Underfull \hbox (badness 10000) in paragraph at lines 201--224
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--218
+Underfull \hbox (badness 10000) in paragraph at lines 201--224
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 201--218
+Underfull \hbox (badness 10000) in paragraph at lines 201--224
 
  []
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 221.
+
+Underfull \hbox (badness 10000) in paragraph at lines 201--224
+
+ []
+
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 227.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 221.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 227.
  (CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 221.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 221.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 227.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 227.
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'CV.run.xml'.
@@ -644,7 +649,7 @@ s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/font
 s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmtt10.pfb>
-Output written on CV.pdf (3 pages, 109599 bytes).
+Output written on CV.pdf (3 pages, 109644 bytes).
 PDF statistics:
  76 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)
