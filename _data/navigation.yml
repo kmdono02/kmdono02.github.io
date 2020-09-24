@@ -2,6 +2,8 @@
 main:
   - title: "Software"
     url: /software/
+  - title: "Talks"
+    url: /talks/
   - title: "Publications"
     url: /_pages/pubs.html
   - title: CV
