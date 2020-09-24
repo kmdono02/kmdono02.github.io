@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.24)  11 AUG 2020 15:30
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.24)  24 SEP 2020 17:18
 entering extended mode
 **./CV.tex
 (CV.tex
@@ -602,12 +602,12 @@ Package biblatex Warning: Option 'omitnumbers' requires 'defernumbers=true'.
 (biblatex)                Ignoring 'omitnumbers=true' on input line 191.
 
 Package biblatex Info: Reference section=0 on input line 192.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 196.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 203.
 [3]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 196.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 203.
  (CV.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 196.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 196.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 203.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 203.
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
 Package logreq Info: Writing requests to 'CV.run.xml'.
@@ -616,7 +616,7 @@ Package logreq Info: Writing requests to 'CV.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  12088 strings out of 480790
- 215274 string characters out of 2907055
+ 215426 string characters out of 2907055
  868322 words of memory out of 3000000
  27959 multiletter control sequences out of 15000+200000
  537451 words of font info for 41 fonts, out of 3000000 for 9000
@@ -629,7 +629,7 @@ s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/font
 s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmtt10.pfb>
-Output written on CV.pdf (3 pages, 109208 bytes).
+Output written on CV.pdf (3 pages, 109282 bytes).
 PDF statistics:
  76 PDF objects out of 1000 (max. 8388607)
  16 named destinations out of 1000 (max. 500000)
