@@ -8,4 +8,4 @@ Material for course designed to teach fundamental statistic concepts, analytical
 [Textbook](https://kmdono02.github.io/Data_Analysis_with_R_IBIS/); [R Code](https://github.com/kmdono02/Data_Analysis_with_R_IBIS)
 
 Links to previously recorded sessions are provided, as saved video files.<br/>
-10/22/2020: [Introduction to R and Course]()
+**10/22/2020**: [Introduction to R and Course]()
