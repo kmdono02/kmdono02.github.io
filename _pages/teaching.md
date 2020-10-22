@@ -8,5 +8,5 @@ Material for course designed to teach fundamental statistic concepts, analytical
 [Textbook](https://kmdono02.github.io/Data_Analysis_with_R_IBIS/); [R Code](https://github.com/kmdono02/Data_Analysis_with_R_IBIS)
 
 Links to previously recorded sessions are provided, as saved video files, along with R code and slides referenced during session (if applicable).<br/>
-[Video Files](https://www.dropbox.com/sh/m3mla30i5870jve/AADZAIvCV_G7KQ4DMC0kITFoa?dl=0)<br/>
-**10/22/2020**: **Introduction to R and Course** [Slides](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/10_22_2020/session_slides.pdf); [Script](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/10_22_2020/script.R)
+[Video Files](https://www.dropbox.com/sh/m3mla30i5870jve/AADZAIvCV_G7KQ4DMC0kITFoa?dl=0); [Github](https://github.com/kmdono02/Stats_R_Teaching)<br/>
+**10/22/2020**: **Introduction to R and Course** [Slides](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/10_22_2020/session_slides.pdf); [Script]
