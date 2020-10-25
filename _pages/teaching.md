@@ -11,4 +11,4 @@ Links to previously recorded sessions are provided, along with R code.<br/>
 Save as **.R** file or copy-paste text into R/RStudio.<br/>
 GitHub for all sessions provided below; download to get all files (code, data).<br/>
 [Video Files](https://www.dropbox.com/sh/m3mla30i5870jve/AADZAIvCV_G7KQ4DMC0kITFoa?dl=0); [Github](https://github.com/kmdono02/Stats_R_Teaching)<br/>
-**10/22/2020**: **Introduction to R and Course** [Slides](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/10_22_2020/session_slides.pdf); [Script](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/10_22_2020/script.R)
+**10/22/2020**: **Introduction to R and Course** [Slides](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/10_22_2020/session_slides.pdf); [Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/10_22_2020/script.R)
