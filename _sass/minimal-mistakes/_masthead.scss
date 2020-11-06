@@ -9,6 +9,7 @@
   animation: $intro-transition;
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
+  background: #2993cc;
   z-index: 20;
 
   &__inner-wrap {
@@ -54,6 +55,7 @@
 }
 
 .masthead__menu {
+  background: #2993cc;
   float: left;
   margin-left: 0;
   margin-right: 0;
@@ -77,6 +79,7 @@
 }
 
 .masthead__menu-item {
+  background: #2993cc;
   display: block;
   list-style-type: none;
   white-space: nowrap;

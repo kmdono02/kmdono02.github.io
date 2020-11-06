@@ -5,9 +5,11 @@
 @charset "utf-8";
 
 $link-color: #0041C2;
+$masthead-link-color: white;
 a {text-decoration: none; }
 ul li { padding: 0px 0px; }
 p { margin: 5px 0;}
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+

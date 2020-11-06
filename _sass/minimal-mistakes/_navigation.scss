@@ -177,7 +177,7 @@
   -ms-flex-align: center;
   align-items: center;
   min-height: $nav-height;
-  background: $background-color;
+  background: #2993cc;
 
   a {
     display: block;
@@ -205,7 +205,7 @@
     height: $nav-toggle-height;
     border: 0;
     outline: none;
-    background-color: transparent;
+    /* background-color: transparent;*/
     cursor: pointer;
   }
 
