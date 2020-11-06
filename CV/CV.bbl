@@ -476,10 +476,16 @@
       \field{labeltitlesource}{title}
       \field{journaltitle}{Journal of the American Academy of Child and Adolescent Psychiatry}
       \field{title}{Towards a Data Driven Approach to Screen for Autism Risk at 12 Months of Age}
-      \field{type}{Accepted}
+      \field{type}{Published}
       \field{year}{2020}
       \true{nocite}
-      \keyw{Accepted}
+      \verb{urlraw}
+      \verb https://www.jaacap.org/article/S0890-8567(20)32060-8/fulltext
+      \endverb
+      \verb{url}
+      \verb https://www.jaacap.org/article/S0890-8567(20)32060-8/fulltext
+      \endverb
+      \keyw{Published}
     \endentry
     \entry{RJournal_2020}{article}{}
       \name{author}{4}{}{%

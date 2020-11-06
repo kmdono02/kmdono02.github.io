@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.24)  25 OCT 2020 09:26
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.6.29) (preloaded format=pdflatex 2020.7.24)  6 NOV 2020 09:41
 entering extended mode
 **./CV.tex
 (CV.tex
@@ -585,8 +585,14 @@ Package biblatex Warning: Option 'omitnumbers' requires 'defernumbers=true'.
 
 [2]
 
+Package biblatex Warning: Keyword 'Accepted' not found on input line 179.
+
+
 Package biblatex Warning: Option 'omitnumbers' requires 'defernumbers=true'.
 (biblatex)                Ignoring 'omitnumbers=true' on input line 179.
+
+
+LaTeX Warning: Empty bibliography on input line 179.
 
 
 Package biblatex Warning: Option 'omitnumbers' requires 'defernumbers=true'.
@@ -615,10 +621,10 @@ Package logreq Info: Writing requests to 'CV.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12088 strings out of 480790
- 215426 string characters out of 2907055
+ 12086 strings out of 480790
+ 215397 string characters out of 2907055
  868322 words of memory out of 3000000
- 27959 multiletter control sequences out of 15000+200000
+ 27958 multiletter control sequences out of 15000+200000
  537451 words of font info for 41 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,4n,45p,870b,1377s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -629,9 +635,9 @@ s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/font
 s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmtt10.pfb>
-Output written on CV.pdf (3 pages, 109719 bytes).
+Output written on CV.pdf (3 pages, 110506 bytes).
 PDF statistics:
- 76 PDF objects out of 1000 (max. 8388607)
- 16 named destinations out of 1000 (max. 500000)
+ 77 PDF objects out of 1000 (max. 8388607)
+ 15 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
