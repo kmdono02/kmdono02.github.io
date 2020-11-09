@@ -9,7 +9,7 @@ permalink: /software/
 
 **Towards a data driven approach to screen for autism risk at 12 months of age**  
 **(Meera, Donovan et al., 2020)**      
-[Publication](...); [GitHub](https://github.com/kmdono02/FYI_Random_Forest)
+[Publication](https://www.jaacap.org/article/S0890-8567(20)32060-8/fulltext); [GitHub](https://github.com/kmdono02/FYI_Random_Forest)
 
 **R tutorials using Infant Brain Imaging Study (IBIS) data (2020)**  
 [Tutorials](https://kmdono02.github.io/Data_Analysis_with_R_IBIS/); [GitHub](https://github.com/kmdono02/Data_Analysis_with_R_IBIS)
