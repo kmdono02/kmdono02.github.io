@@ -10,6 +10,6 @@ Material for course designed to teach fundamental statistic concepts, analytical
 Links to previously recorded sessions are provided, along with R code.<br/>
 Save as **.R** file or copy-paste text into R/RStudio.<br/>
 GitHub for all sessions provided below; download to get all files (code, data).<br/>
-[Video Files](https://www.dropbox.com/sh/m3mla30i5870jve/AADZAIvCV_G7KQ4DMC0kITFoa?dl=0); [Github](https://github.com/kmdono02/Stats_R_Teaching)<br/>
+[Video Files](https://www.dropbox.com/sh/m3mla30i5870jve/AADZAIvCV_G7KQ4DMC0kITFoa?dl=0); [GitHub](https://github.com/kmdono02/Stats_R_Teaching)<br/>
 **10/22/2020**: **Introduction to R and Course** [Slides](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/10_22_2020/session_slides.pdf); [Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/10_22_2020/script.R)<br/>
 **11/12/2020**: **Data Wrangling** [Slides](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/11_12_2020/session_slides.pdf); [Code_Pt1](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/11_12_2020/script_1.R); [Code_Pt2](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/11_12_2020/script_2.R)
