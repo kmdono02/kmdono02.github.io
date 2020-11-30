@@ -4,8 +4,7 @@ layout: single
 permalink: /teaching/
 ---
 **BIOS 635 - Intro to Machine Learning**  
-**Spring 2021**  
-[GitHub](https://github.com/kmdono02/BIOS_635); [GitHub_Classroom](https://classroom.github.com/classrooms/74789323-bios-635-intro-to-machine-learning)
+**Spring 2021:**  [GitHub](https://github.com/kmdono02/BIOS_635); [GitHub_Classroom](https://classroom.github.com/classrooms/74789323-bios-635-intro-to-machine-learning)
 Work in Progress
 
 **Statistics and R Programming with IBIS (2020-2021)**  
