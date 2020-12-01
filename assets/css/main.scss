@@ -5,9 +5,9 @@
 @charset "utf-8";
 
 $info-color: #5dbcd2 !default;
-$link-color: mix(#fff, $info-color, 35%) !default;
+$link-color: $info-color !default;
 $link-color-hover: mix(#000, $link-color, 35%) !default;
-$link-color-visited: mix(#fff, $link-color, 35%) !default;
+$link-color-visited: $link-color !default;
 $masthead-link-color: white;
 a {text-decoration: none; }
 ul li { padding: 0px 0px; }
