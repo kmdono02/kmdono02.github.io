@@ -3,8 +3,9 @@ title: "Teaching"
 layout: single
 permalink: /teaching/
 ---
+**UNC Chapel Hill**  
+
 **BIOS 635 - Intro to Machine Learning**  
-**Biostatistics - UNC Chapel Hill**  
 **Spring 2021:**  [GitHub](https://github.com/kmdono02/BIOS_635); [GitHub_Classroom](https://classroom.github.com/classrooms/74789323-bios-635-intro-to-machine-learning)  
 
 **Statistics and R Programming with IBIS (2020-2021)**  
