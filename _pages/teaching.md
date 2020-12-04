@@ -4,8 +4,8 @@ layout: single
 permalink: /teaching/
 ---
 **BIOS 635 - Intro to Machine Learning**  
+**Biostatistics - UNC Chapel Hill**  
 **Spring 2021:**  [GitHub](https://github.com/kmdono02/BIOS_635); [GitHub_Classroom](https://classroom.github.com/classrooms/74789323-bios-635-intro-to-machine-learning)  
-Work in Progress
 
 **Statistics and R Programming with IBIS (2020-2021)**  
 Material for course designed to teach fundamental statistic concepts, analytical methods, and carrying out data management and analysis using R software.  Focus is placed on learning R as a **language** and not simply memorizing specific commands, to allow one to tackle examples beyond what are covered in the course, and on relating the R code back to the corresponding statistical concept.  First, links to the main text source for the tutorials and corresponding R code (R code as RMD files) are provided.<br/>
