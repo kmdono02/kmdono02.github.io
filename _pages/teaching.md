@@ -21,5 +21,7 @@ GitHub for all sessions provided below; download to get all files (code, data).<
 **11/12/2020**: **Data Wrangling** [Slides](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/11_12_2020/session_slides.pdf); [Code_Pt1](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/11_12_2020/script_1.R); [Code_Pt2](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/11_12_2020/script_2.R)<br/>
 **11/19/2020**: **Data Visualization**
 [Slides](https://kmdono02.github.io/Stats_R_Teaching/11_19_2020/class_markdown.html); [Slides_Markdown_Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/11_19_2020/class_markdown.RMD); [Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/11_19_2020/script.R)<br/>
+**12/10/2020**: **Creating Tables in R**
+[Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/12_10_2020/tables_script.R)
 **12/10/2020**: **R Markdown Introduction**
-[Slides](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/12_10_2020/session_slides.pdf); [Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/12_10_2020/script.Rmd)
+[Slides](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/12_10_2020/session_slides.pdf); [Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/12_10_2020/12_10_example.Rmd)
