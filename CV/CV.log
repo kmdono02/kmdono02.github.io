@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.14)  29 DEC 2020 15:00
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.14)  9 JAN 2021 12:51
 entering extended mode
 **./CV.tex
 (CV.tex
@@ -652,13 +652,6 @@ Package biblatex Info: Reference section=0 on input line 198.
 [3] (CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-
-
-LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
-
-
-Package biblatex Warning: Please rerun LaTeX.
-
 Package logreq Info: Writing requests to 'CV.run.xml'.
 \openout1 = `CV.run.xml'.
 
@@ -666,7 +659,7 @@ Package logreq Info: Writing requests to 'CV.run.xml'.
 Here is how much of TeX's memory you used:
  12278 strings out of 479697
  222166 string characters out of 2877008
- 946001 words of memory out of 3000000
+ 945992 words of memory out of 3000000
  29225 multiletter control sequences out of 15000+200000
  408543 words of font info for 44 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -678,7 +671,7 @@ s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/font
 s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmtt10.pfb>
-Output written on CV.pdf (3 pages, 110930 bytes).
+Output written on CV.pdf (3 pages, 110913 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  15 named destinations out of 1000 (max. 500000)
