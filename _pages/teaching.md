@@ -29,4 +29,4 @@ GitHub for all sessions provided below; download to get all files (code, data).<
 **12/17/2020**: **Advanced Data Wrangling**
 [Slides](https://kmdono02.github.io/Stats_R_Teaching/12_17_2020/class_markdown.html); [Slides_Markdown_Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/12_17_2020/class_markdown.RMD); [Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/12_17_2020/script.R)<br/>
 **1/15/2021**: **Statistical Inference**
-[Slides](https://kmdono02.github.io/Stats_R_Teaching/1_15_2021/class_markdown.html); [Slides_Markdown_Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/1_15_2021/class_markdown.RMD);<br/>
+[Slides](https://kmdono02.github.io/Stats_R_Teaching/1_15_2021/class_markdown.html); [Slides_Markdown_Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/1_15_2021/class_markdown.RMD)<br/>
