@@ -32,3 +32,5 @@ GitHub for all sessions provided below; download to get all files (code, data).<
 [Slides](https://kmdono02.github.io/Stats_R_Teaching/1_15_2021/class_markdown.html); [Slides_Markdown_Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/1_15_2021/class_markdown.RMD)<br/>
 **1/29/2021**: **Association and Regression Analyses**
 [Slides](https://kmdono02.github.io/Stats_R_Teaching/1_29_2021/class_markdown.html); [Slides_Markdown_Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/1_29_2021/class_markdown.RMD); [Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/1_29_2021/script.R)<br/>
+**2/12/2021**: **Longitudinal Analysis 1: Mixed Models**
+[Slides](https://kmdono02.github.io/Stats_R_Teaching/2_12_2021/class_markdown.html); [Slides_Markdown_Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/2_12_2021/class_markdown.RMD); [Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/2_12_2021/script.RMD); [Code HTML](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/2_12_2021/script.html)<br/>
