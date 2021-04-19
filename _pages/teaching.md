@@ -16,7 +16,7 @@ Material for course designed to teach fundamental statistic concepts, analytical
 Links to previously recorded sessions are provided, along with R code.<br/>
 Save as **.R** file or copy-paste text into R/RStudio.<br/>
 GitHub for all sessions provided below; download to get all files (code, data).<br/>
-[Video Files](https://www.dropbox.com/sh/m3mla30i5870jve/AADZAIvCV_G7KQ4DMC0kITFoa?dl=0); [GitHub](https://github.com/kmdono02/Stats_R_Teaching)<br/>
+[Video Files](https://www.dropbox.com/sh/m3mla30i5870jve/AADZAIvCV_G7KQ4DMC0kITFoa?dl=0); [Video Files Pt. 2](https://drive.google.com/drive/folders/1BIkt3V4tYNLgenBkZ1kxogP4N7ll-7zJ?usp=sharing); [GitHub](https://github.com/kmdono02/Stats_R_Teaching)<br/>
 **Introduction to Github:** [Video](https://www.dropbox.com/sh/m3mla30i5870jve/AADZAIvCV_G7KQ4DMC0kITFoa?dl=0)<br/>
 **10/22/2020**: **Introduction to R and Course** [Slides](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/10_22_2020/session_slides.pdf); [Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/10_22_2020/script.R)<br/>
 **11/12/2020**: **Data Wrangling** [Slides](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/11_12_2020/session_slides.pdf); [Code_Pt1](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/11_12_2020/script_1.R); [Code_Pt2](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/11_12_2020/script_2.R)<br/>
@@ -40,3 +40,5 @@ GitHub for all sessions provided below; download to get all files (code, data).<
 [Slides](https://kmdono02.github.io/Stats_R_Teaching/3_10_2020/class_markdown.html); [Slides_Markdown_Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/3_10_2020/class_markdown.RMD); [Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/3_10_2020/script.RMD); [Code HTML](https://kmdono02.github.io/Stats_R_Teaching/3_10_2020/script.html)<br/>
 **3/26/2021**: **Presenting Results Pt. 2: Effect Sizes and Diagnostics**
 [Slides](https://kmdono02.github.io/Stats_R_Teaching/3_26_2020/class_markdown.html); [Slides_Markdown_Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/3_26_2020/class_markdown.RMD); [Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/3_26_2020/script.RMD)<br/>
+**4/16/2021**: **Analyzing Contingency Tables in R**
+[Slides](https://kmdono02.github.io/Stats_R_Teaching/4_16_2020/class_markdown.html); [Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/4_16_2020/class_markdown.RMD)
