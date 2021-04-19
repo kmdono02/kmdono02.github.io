@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.14)  3 APR 2021 12:29
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.14)  18 APR 2021 20:59
 entering extended mode
 **./CV.tex
 (CV.tex
@@ -642,13 +642,13 @@ Package biblatex Warning: Option 'omitnumbers' requires 'defernumbers=true'.
 Package biblatex Info: Reference section=0 on input line 185.
 \blx@maxsegment@3=\count407
 \blx@sectionciteorder@3=\count408
-Package biblatex Info: Reference section=3 on input line 194.
-Package biblatex Info: Setting label 'refsection:3' on input line 194.
+Package biblatex Info: Reference section=3 on input line 205.
+Package biblatex Info: Setting label 'refsection:3' on input line 205.
 
 Package biblatex Warning: Option 'omitnumbers' requires 'defernumbers=true'.
-(biblatex)                Ignoring 'omitnumbers=true' on input line 196.
+(biblatex)                Ignoring 'omitnumbers=true' on input line 207.
 
-Package biblatex Info: Reference section=0 on input line 197.
+Package biblatex Info: Reference section=0 on input line 208.
 [3] (CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -659,7 +659,7 @@ Package logreq Info: Writing requests to 'CV.run.xml'.
 Here is how much of TeX's memory you used:
  12278 strings out of 479697
  222166 string characters out of 2877008
- 945992 words of memory out of 3000000
+ 946992 words of memory out of 3000000
  29225 multiletter control sequences out of 15000+200000
  408543 words of font info for 44 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -671,7 +671,7 @@ s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/font
 s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmtt10.pfb>
-Output written on CV.pdf (3 pages, 111536 bytes).
+Output written on CV.pdf (3 pages, 111629 bytes).
 PDF statistics:
  77 PDF objects out of 1000 (max. 8388607)
  15 named destinations out of 1000 (max. 500000)
