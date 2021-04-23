@@ -41,6 +41,6 @@ GitHub for all sessions provided below; download to get all files (code, data).<
 **3/26/2021**: **Presenting Results Pt. 2: Effect Sizes and Diagnostics**
 [Slides](https://kmdono02.github.io/Stats_R_Teaching/3_26_2020/class_markdown.html); [Slides_Markdown_Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/3_26_2020/class_markdown.RMD); [Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/3_26_2020/script.RMD)<br/>
 **4/16/2021**: **Analyzing Contingency Tables in R**
-[Slides](https://kmdono02.github.io/Stats_R_Teaching/4_16_2020/class_markdown.html); [Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/4_16_2020/class_markdown.RMD)
+[Slides](https://kmdono02.github.io/Stats_R_Teaching/4_16_2020/class_markdown.html); [Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/4_16_2020/class_markdown.RMD)<br/>
 **4/23/2021**: **Machine Learning Pt. 1: Supervised Learning**
 [Slides](https://kmdono02.github.io/Stats_R_Teaching/4_23_2020/class_markdown.html); [Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/4_23_2020/class_markdown.RMD)
