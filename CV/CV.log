@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.14)  6 MAY 2021 10:48
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.12) (preloaded format=pdflatex 2020.12.14)  11 MAY 2021 11:34
 entering extended mode
 **./CV.tex
 (CV.tex
@@ -581,7 +581,7 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 63.
 
-Underfull \hbox (badness 10000) in paragraph at lines 71--78
+Underfull \hbox (badness 10000) in paragraph at lines 71--79
 
  []
 
@@ -590,18 +590,20 @@ Underfull \hbox (badness 10000) in paragraph at lines 71--78
 {C:/Users/kdono/AppData/Local/MiKTeX/pdftex/config/pdftex.map}]
 \blx@maxsegment@1=\count403
 \blx@sectionciteorder@1=\count404
-Package biblatex Info: Reference section=1 on input line 168.
-Package biblatex Info: Setting label 'refsection:1' on input line 168.
+Package biblatex Info: Reference section=1 on input line 169.
+Package biblatex Info: Setting label 'refsection:1' on input line 169.
 
 
 Package biblatex Warning: Option 'omitnumbers' requires 'defernumbers=true'.
-(biblatex)                Ignoring 'omitnumbers=true' on input line 170.
+(biblatex)                Ignoring 'omitnumbers=true' on input line 171.
 
-Package biblatex Info: Reference section=0 on input line 171.
+[2]
+Package biblatex Info: Reference section=0 on input line 172.
 \blx@maxsegment@2=\count405
 \blx@sectionciteorder@2=\count406
-Package biblatex Info: Reference section=2 on input line 180.
-Package biblatex Info: Setting label 'refsection:2' on input line 180.
+Package biblatex Info: Reference section=2 on input line 181.
+Package biblatex Info: Setting label 'refsection:2' on input line 181.
+
 
 Package biblatex Warning: Split bibliography detected.
 (biblatex)                Many simple split bibliography setups with
@@ -610,21 +612,20 @@ Package biblatex Warning: Split bibliography detected.
 (biblatex)                See the documentation for details.
 (biblatex)                This warning can be suppressed with
 (biblatex)                '\BiblatexSplitbibDefernumbersWarningOff'.
-
-
-Package biblatex Warning: Option 'omitnumbers' requires 'defernumbers=true'.
-(biblatex)                Ignoring 'omitnumbers=true' on input line 182.
-
-[2]
-
-Package biblatex Warning: Keyword 'Accepted' not found on input line 183.
 
 
 Package biblatex Warning: Option 'omitnumbers' requires 'defernumbers=true'.
 (biblatex)                Ignoring 'omitnumbers=true' on input line 183.
 
 
-LaTeX Warning: Empty bibliography on input line 183.
+Package biblatex Warning: Keyword 'Accepted' not found on input line 184.
+
+
+Package biblatex Warning: Option 'omitnumbers' requires 'defernumbers=true'.
+(biblatex)                Ignoring 'omitnumbers=true' on input line 184.
+
+
+LaTeX Warning: Empty bibliography on input line 184.
 
 
 Package biblatex Warning: Split bibliography detected.
@@ -637,18 +638,18 @@ Package biblatex Warning: Split bibliography detected.
 
 
 Package biblatex Warning: Option 'omitnumbers' requires 'defernumbers=true'.
-(biblatex)                Ignoring 'omitnumbers=true' on input line 184.
+(biblatex)                Ignoring 'omitnumbers=true' on input line 185.
 
-Package biblatex Info: Reference section=0 on input line 185.
+Package biblatex Info: Reference section=0 on input line 186.
 \blx@maxsegment@3=\count407
 \blx@sectionciteorder@3=\count408
-Package biblatex Info: Reference section=3 on input line 205.
-Package biblatex Info: Setting label 'refsection:3' on input line 205.
+Package biblatex Info: Reference section=3 on input line 206.
+Package biblatex Info: Setting label 'refsection:3' on input line 206.
 
 Package biblatex Warning: Option 'omitnumbers' requires 'defernumbers=true'.
-(biblatex)                Ignoring 'omitnumbers=true' on input line 207.
+(biblatex)                Ignoring 'omitnumbers=true' on input line 208.
 
-Package biblatex Info: Reference section=0 on input line 208.
+Package biblatex Info: Reference section=0 on input line 209.
 [3] (CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
@@ -658,12 +659,12 @@ Package logreq Info: Writing requests to 'CV.run.xml'.
  ) 
 Here is how much of TeX's memory you used:
  12278 strings out of 479697
- 222166 string characters out of 2877008
- 946992 words of memory out of 3000000
+ 222175 string characters out of 2877008
+ 947992 words of memory out of 3000000
  29225 multiletter control sequences out of 15000+200000
  408543 words of font info for 44 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 80i,4n,85p,737b,1422s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 80i,4n,85p,737b,1348s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\kdono\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1095.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/
 Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program File
@@ -671,9 +672,9 @@ s/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/font
 s/type1/public/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/publ
 ic/amsfonts/cm/cmti10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmtt10.pfb>
-Output written on CV.pdf (3 pages, 111033 bytes).
+Output written on CV.pdf (3 pages, 111571 bytes).
 PDF statistics:
- 77 PDF objects out of 1000 (max. 8388607)
+ 76 PDF objects out of 1000 (max. 8388607)
  15 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 

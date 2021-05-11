@@ -94,7 +94,6 @@
       \strng{authorbibnamehash}{db701726d8e58fe89849effd30e05aa2}
       \strng{authornamehash}{efef415df3c0c4f7d652961e7502d162}
       \strng{authorfullhash}{db701726d8e58fe89849effd30e05aa2}
-      \field{extraname}{1}
       \field{sortinit}{1}
       \field{sortinithash}{50c6687d7fc80f50136d75228e3c59ba}
       \field{labelnamesource}{author}
@@ -487,50 +486,169 @@
       \endverb
       \keyw{Published}
     \endentry
-    \entry{RJournal_2020}{article}{}
-      \name{author}{4}{}{%
+    \entry{NatureNeuro_2021}{article}{}
+      \name{author}{28}{}{%
+        {{hash=de9fc71ab9f30e9a0fe0d54ef06255bb}{%
+           family={Girault},
+           familyi={G\bibinitperiod},
+           given={JB},
+           giveni={J\bibinitperiod}}}%
         {{hash=8b3622765fc396273e12b8021793acdf}{%
            family={Donovan},
            familyi={D\bibinitperiod},
            given={Kevin},
            giveni={K\bibinitperiod}}}%
-        {{hash=2eb20b0799be1fe14e67d84117168092}{%
-           family={Psioda},
-           familyi={P\bibinitperiod},
-           given={Matthew},
-           giveni={M\bibinitperiod}}}%
-        {{hash=7f6e1e848550f362b482fe489815faa1}{%
-           family={Hudgens},
+        {{hash=520efe222dfc13dffc0451ac8339b82e}{%
+           family={Hawks},
            familyi={H\bibinitperiod},
-           given={Michael},
+           given={Z},
+           giveni={Z\bibinitperiod}}}%
+        {{hash=a092c9a4c8606d456645c301392671d4}{%
+           family={Talovic},
+           familyi={T\bibinitperiod},
+           given={M},
            giveni={M\bibinitperiod}}}%
-        {{hash=90f0eda52f6a1e85dee1c074b4123253}{%
-           family={Loop},
-           familyi={L\bibinitperiod},
-           given={Matthew},
+        {{hash=a580d52903da01ab8dffcd61030b11b3}{%
+           family={Forsen},
+           familyi={F\bibinitperiod},
+           given={E},
+           giveni={E\bibinitperiod}}}%
+        {{hash=9c94c8d9acaa813db1eec60649368d83}{%
+           family={Elison},
+           familyi={E\bibinitperiod},
+           given={JT},
+           giveni={J\bibinitperiod}}}%
+        {{hash=308b5c7675fdeaab41b099b9b2396855}{%
+           family={Shen},
+           familyi={S\bibinitperiod},
+           given={MD},
            giveni={M\bibinitperiod}}}%
+        {{hash=71cf29d63c5358220ce4bca84cdf52af}{%
+           family={Swanson},
+           familyi={S\bibinitperiod},
+           given={MR},
+           giveni={M\bibinitperiod}}}%
+        {{hash=c6ed760dcf6fc974063af096f3410b30}{%
+           family={Wolff},
+           familyi={W\bibinitperiod},
+           given={JJ},
+           giveni={J\bibinitperiod}}}%
+        {{hash=3f2795c89ac6dc999a049193306f41b7}{%
+           family={Kim},
+           familyi={K\bibinitperiod},
+           given={SH},
+           giveni={S\bibinitperiod}}}%
+        {{hash=03cfed04dc9c1cf1a7c22ac27253d8ce}{%
+           family={Nishino},
+           familyi={N\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=65c85dc43bbf4ea9a6c7721bae9880e4}{%
+           family={Davis},
+           familyi={D\bibinitperiod},
+           given={S},
+           giveni={S\bibinitperiod}}}%
+        {{hash=9c9e9e5187ac28b337ac55746e0aabaa}{%
+           family={Snyder},
+           familyi={S\bibinitperiod},
+           given={AZ},
+           giveni={A\bibinitperiod}}}%
+        {{hash=bc78af3339e913d3a101e57bc880336d}{%
+           family={Botteron},
+           familyi={B\bibinitperiod},
+           given={KN},
+           giveni={K\bibinitperiod}}}%
+        {{hash=e4459674171303ea2a7a9db46255e7cb}{%
+           family={Estes},
+           familyi={E\bibinitperiod},
+           given={AM},
+           giveni={A\bibinitperiod}}}%
+        {{hash=3349d491d22dcf967b7539e4bf7349e3}{%
+           family={Dager},
+           familyi={D\bibinitperiod},
+           given={SR},
+           giveni={S\bibinitperiod}}}%
+        {{hash=6b381d4e5ea853722f76924577b4a362}{%
+           family={Hazlett},
+           familyi={H\bibinitperiod},
+           given={HC},
+           giveni={H\bibinitperiod}}}%
+        {{hash=757677716daf023dbe9f1acf676af843}{%
+           family={Gerig},
+           familyi={G\bibinitperiod},
+           given={G},
+           giveni={G\bibinitperiod}}}%
+        {{hash=782d400dfacb8fb4dbf8336d99a32b45}{%
+           family={Pandey},
+           familyi={P\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
+        {{hash=2dd065676aa5a9e6cd339eacef1f5992}{%
+           family={Schultz},
+           familyi={S\bibinitperiod},
+           given={RT},
+           giveni={R\bibinitperiod}}}%
+        {{hash=35ed0b7595a8115a27ea170b4b722f48}{%
+           family={St.\bibnamedelimi John},
+           familyi={S\bibinitperiod\bibinitdelim J\bibinitperiod},
+           given={T},
+           giveni={T\bibinitperiod}}}%
+        {{hash=1b1e163378342086fa53b9ffb15cffa0}{%
+           family={Zwaigenbaum},
+           familyi={Z\bibinitperiod},
+           given={L},
+           giveni={L\bibinitperiod}}}%
+        {{hash=010b2e11439292f66f6adc6b88a16c47}{%
+           family={Todorov},
+           familyi={T\bibinitperiod},
+           given={A},
+           giveni={A\bibinitperiod}}}%
+        {{hash=e0e00e4fee48d65d33b302ee46944788}{%
+           family={Truong},
+           familyi={T\bibinitperiod},
+           given={YK},
+           giveni={Y\bibinitperiod}}}%
+        {{hash=a60623ac037591ab270e1701e71aa48a}{%
+           family={Styner},
+           familyi={S\bibinitperiod},
+           given={M},
+           giveni={M\bibinitperiod}}}%
+        {{hash=fa7fa9fd007d5c053cf86f71d4c029e5}{%
+           family={Pruett},
+           familyi={P\bibinitperiod},
+           given={JR\bibnamedelima Jr.},
+           giveni={J\bibinitperiod\bibinitdelim J\bibinitperiod}}}%
+        {{hash=b1ccea8bfdfcd9131676a26d54b849e5}{%
+           family={Constantino},
+           familyi={C\bibinitperiod},
+           given={JN},
+           giveni={J\bibinitperiod}}}%
+        {{hash=6c0b7bcf348df2effc200e13a739a59b}{%
+           family={Piven},
+           familyi={P\bibinitperiod},
+           given={J},
+           giveni={J\bibinitperiod}}}%
       }
-      \strng{namehash}{efef415df3c0c4f7d652961e7502d162}
-      \strng{fullhash}{fe2cd076589b12f5ae9e6801fa8b30c0}
-      \strng{bibnamehash}{fe2cd076589b12f5ae9e6801fa8b30c0}
-      \strng{authorbibnamehash}{fe2cd076589b12f5ae9e6801fa8b30c0}
-      \strng{authornamehash}{efef415df3c0c4f7d652961e7502d162}
-      \strng{authorfullhash}{fe2cd076589b12f5ae9e6801fa8b30c0}
-      \field{extraname}{2}
+      \strng{namehash}{ffb9fdda3e7c37a1f4fdf91d5e1c090e}
+      \strng{fullhash}{0073bcb2597c448bc9ac54b4d6fc7885}
+      \strng{bibnamehash}{0073bcb2597c448bc9ac54b4d6fc7885}
+      \strng{authorbibnamehash}{0073bcb2597c448bc9ac54b4d6fc7885}
+      \strng{authornamehash}{ffb9fdda3e7c37a1f4fdf91d5e1c090e}
+      \strng{authorfullhash}{0073bcb2597c448bc9ac54b4d6fc7885}
       \field{sortinit}{7}
       \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
       \field{labelnamesource}{author}
       \field{labeltitlesource}{title}
-      \field{note}{Submitted to \textit{R Journal}}
-      \field{title}{lodr: An {R} package for regression with biomarkers subject to limit of detection}
+      \field{note}{Submitted to \textit{Nature Neuroscience}}
+      \field{title}{Brain imaging markers of inherited risk for autism implicate infant visual regions and pathways}
       \field{type}{Submitted}
-      \field{year}{2020}
+      \field{year}{2021}
       \true{nocite}
       \verb{urlraw}
-      \verb https://cran.r-project.org/web/packages/lodr/index.html
+      \verb NA
       \endverb
       \verb{url}
-      \verb https://cran.r-project.org/web/packages/lodr/index.html
+      \verb NA
       \endverb
       \keyw{Submitted}
     \endentry
