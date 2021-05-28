@@ -46,3 +46,5 @@ GitHub for all sessions provided below; download to get all files (code, data).<
 [Slides](https://kmdono02.github.io/Stats_R_Teaching/4_23_2020/class_markdown.html); [Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/4_23_2020/class_markdown.RMD)<br/>
 **5/14/2021**: **Machine Learning Pt. 2: Supervised Learning Methods**
 [Slides](https://kmdono02.github.io/Stats_R_Teaching/5_14_2020/class_markdown.html); [Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/5_14_2020/class_markdown.RMD)
+**5/14/2021**: **Machine Learning Pt. 2: Supervised Learning Methods**
+[Slides Pt. 1](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/5_28_2020/lecture_19.pdf); [Slides Pt. 2](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/5_28_2020/lecture_21.pdf);[Code](https://raw.githubusercontent.com/kmdono02/Stats_R_Teaching/main/5_14_2020/unsupervised_learning_script.RMD)
