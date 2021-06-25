@@ -106,10 +106,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kevin Donovan"
+  name             : "Kevin Donovan, PhD"
   avatar           : "/assets/images/profile_2.jpeg"
-  bio              : "PhD candidate<br>Biostatistics<br>UNC Chapel Hill"
-  location         : "Chapel Hill, NC"
+  bio              : "Postdoctoral Fellow<br>Biostatistics<br>PENNSIVE Lab<br>UPenn"
+  location         : "Philadelphia, PA"
   email            :
   links:
     - label: "kmdono02@ad.unc.edu"
