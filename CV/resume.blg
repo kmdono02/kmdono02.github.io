@@ -1,0 +1,37 @@
+[0] Config.pm:312> INFO - This is Biber 2.15 (beta)
+[0] Config.pm:315> INFO - Logfile is 'resume.blg'
+[106] biber-MSWIN64:330> INFO - === 
+[127] Biber.pm:415> INFO - Reading 'resume.bcf'
+[241] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[241] Biber.pm:949> INFO - Using all citekeys in bib section 1
+[241] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[241] Biber.pm:949> INFO - Using all citekeys in bib section 2
+[241] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[241] Biber.pm:949> INFO - Using all citekeys in bib section 3
+[241] Biber.pm:952> INFO - Found 0 citekeys in bib section 0
+[276] Biber.pm:4334> INFO - Processing section 1
+[293] Biber.pm:4523> INFO - Looking for bibtex format file 'CV_software.bib' for section 1
+[303] bibtex.pm:1682> INFO - LaTeX decoding ...
+[310] bibtex.pm:1494> INFO - Found BibTeX data source 'CV_software.bib'
+[343] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[343] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[343] Biber.pm:4162> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[343] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
+[350] Biber.pm:4334> INFO - Processing section 2
+[351] Biber.pm:4523> INFO - Looking for bibtex format file 'CV.bib' for section 2
+[356] bibtex.pm:1682> INFO - LaTeX decoding ...
+[382] bibtex.pm:1494> INFO - Found BibTeX data source 'CV.bib'
+[544] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[544] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[544] Biber.pm:4162> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[544] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
+[557] Biber.pm:4334> INFO - Processing section 3
+[558] Biber.pm:4523> INFO - Looking for bibtex format file 'CV_talks.bib' for section 3
+[566] bibtex.pm:1682> INFO - LaTeX decoding ...
+[572] bibtex.pm:1494> INFO - Found BibTeX data source 'CV_talks.bib'
+[582] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[582] UCollate.pm:68> INFO - Overriding locale 'en-US' defaults 'variable = shifted' with 'variable = non-ignorable'
+[582] Biber.pm:4162> INFO - Sorting list 'none/global//global/global' of type 'entry' with template 'none' and locale 'en-US'
+[582] Biber.pm:4168> INFO - No sort tailoring available for locale 'en-US'
+[584] bbl.pm:651> INFO - Writing 'resume.bbl' with encoding 'UTF-8'
+[604] bbl.pm:754> INFO - Output to resume.bbl
